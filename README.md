@@ -34,7 +34,7 @@
 
 <p align="left">
   I'm a CS Student and AI/ML Enthusiast from India 🇮🇳<br><br>
-  - 🔭 I'm currently working on <strong>Menupro</strong><br>
+  - 🔭 I'm currently working on <strong>Quilo</strong><br>
   - 📚 I'm currently learning <strong>Machine Learning, Deep Learning & DSA</strong><br>
   - 🤝 I'm looking to collaborate on <strong>AI/ML and Python projects</strong><br>
   - 💼 I'm looking for <strong>internship opportunities</strong> in AI/ML<br>
