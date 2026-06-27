@@ -38,7 +38,7 @@
   - 📚 I'm currently learning <strong>Machine Learning, Deep Learning & DSA</strong><br>
   - 🤝 I'm looking to collaborate on <strong>AI/ML and Python projects</strong><br>
   - 💼 I'm looking for <strong>internship opportunities</strong> in AI/ML<br>
-  - ⚡ In my free time I solve DSA problems and explore new ML papers<br>
+  - ⚡ I solve DSA problems and explore new ML papers<br>
   - 📫 Reach me at <strong>pavnimalhotra38@gmail.com</strong><br><br>
   <em>"Code • Learn • Repeat 🚀"</em>
 </p>
